@@ -1,14 +1,20 @@
 # Learning discriminative embeddings from multi-channel raw audio for semi-supervised machine condition monitoring
 
+**ATTENTION: Unpublished work** This study is currently under-review
+
 This repository containes the source code along with the detailed results and visualization of the research study "Learning discriminative embeddings from multi-channel raw audio for semi-supervised machine condition monitoring".
 
 ## Authors
 Iordanis Thoidis, Marios Giouvanakis, George Papanikolaou. 
 
 Laboratory of Electroacoustics and TV Systems,
+
 School of Electrical and Computer Engineering, 
+
 Faculty of Engineering, 
+
 Aristotle University of Thessaloniki, 
+
 Greece
 
 ## Abstract
