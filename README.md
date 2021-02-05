@@ -31,7 +31,7 @@ In this study, we aim to learn highly descriptive representations for a wide set
 
 ## Spatial filtering patterns of the of the 1st convolutional layer of RawdNet
 
-![plot](./Figure_4.pdf)
+![plot](Figure_4.jpg)
 
 
 
