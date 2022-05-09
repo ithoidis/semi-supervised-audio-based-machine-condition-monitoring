@@ -127,7 +127,7 @@ class CenterLoss(nn.Module):
 
 class DOC(nn.Module):
     def __init__(self, input_features, out_features=16, units=32):
-        super(DOCSVDD, self).__init__()
+        super(DOC, self).__init__()
         self.lr = 1e-3
         self.lr_svdd = 0.5
         self.out_features = out_features
